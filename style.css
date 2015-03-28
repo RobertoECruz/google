@@ -1,6 +1,9 @@
 img {
+  height: 95px;
   width: 269px;
-  length: 207px;
-  padding-top: auto;
-  padding-bottom: auto;
+  top: 50%;
+  left: 50%;
+  margin-top: -47.5px;
+  margin-left: -134.5px;
+  position: fixed;
 }
