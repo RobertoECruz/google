@@ -1,9 +1,11 @@
-img {
-  height: 95px;
-  width: 269px;
+#content {
   top: 50%;
   left: 50%;
   margin-top: -47.5px;
   margin-left: -134.5px;
   position: fixed;
+}
+#content img{
+  height: 95px;
+  width: 269px;
 }
